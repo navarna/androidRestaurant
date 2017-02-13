@@ -1,6 +1,6 @@
 // AUTEUR : Navarna
 
-Projet Android : application qui enregistre des restaurants et affiche leur informations dans une base de donnée interne 
+Projet Android : application qui enregistre des restaurants et affiche leurs informations dans une base de donnée interne 
 
 Langage JAVA 
 
